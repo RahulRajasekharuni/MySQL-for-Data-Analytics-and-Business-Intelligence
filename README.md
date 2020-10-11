@@ -1,6 +1,6 @@
 # MySQL-for-Data-Analytics-and-Business-Intelligence
 
-SQL Code examples from the - SQL - MySQL for Data Analytics and Business Intelligence course I did
+SQL Code examples from the - SQL - MySQL for Data Analytics and Business Intelligence course I did.
 I have also passed the LinkedIn MySQL skills test.
 
 Examples of DDL, DML and TCL
