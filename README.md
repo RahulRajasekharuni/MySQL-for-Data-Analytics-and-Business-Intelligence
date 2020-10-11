@@ -17,7 +17,7 @@ Please refer to below files for advanced SQL
 7. Tableau Task 2.sql
 8. Tableau Task 2.sql
 9. Tableau Task 2.sql
-10.Case Statement.sql
+10. Case Statement.sql
 11. Union Select.sql
 12. Stored procedure example.sql
 
