@@ -5,7 +5,7 @@ I have also passed the LinkedIn MySQL skills test.
 
 Examples of DDL, DML and TCL
 
-There are advanced queries, triggers, functions and stored procedures and solutions to their final exam in the files.
+There are advanced queries, triggers, functions, stored procedures and solutions to their final exam in the files.
 
 Please refer to below files for advanced SQL
 1. final exercise.sql -associated PDF is also provided
